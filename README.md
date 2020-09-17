@@ -1,2 +1,2 @@
-# HybridApp-MU
-aplikasi mobile untuk MU dengan ionic
+# HybridWebDevelopment
+Final project hybrid web development menggunakan ionic, membuat aplikasi untuk MU
